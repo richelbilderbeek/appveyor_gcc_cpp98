@@ -1,3 +1,6 @@
+install:
+  - set PATH=%PATH%;C:\MinGW\bin
+
 build_script:
   - g++ main.cpp -o travis_gcc_cpp98
   - ./travis_gcc_cpp98
