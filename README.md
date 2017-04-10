@@ -17,7 +17,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
 
- * [...]
+ * Use C++11: [appveyor_gcc_cpp11](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp11)
 
 Equally complex builds:
 
